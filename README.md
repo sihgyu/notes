@@ -6,3 +6,4 @@
 * 第四章 [控制执行流程](https://blog.csdn.net/qq_37866486/article/details/89457927)
 * 第五章 [初始化与清理](https://blog.csdn.net/qq_37866486/article/details/89458726)
 * 第六章 [访问权限控制](https://blog.csdn.net/qq_37866486/article/details/89710233)
+* 第七章 [复用类](https://blog.csdn.net/qq_37866486/article/details/89715373)
